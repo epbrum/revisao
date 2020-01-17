@@ -1,0 +1,5 @@
+listar
+editar
+apagar
+copiar
+outros
